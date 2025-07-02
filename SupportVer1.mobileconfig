@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array/>
+    <key>PayloadDisplayName</key>
+    <string>Hỗ Trợ Kéo Tâm v1</string>
+    <key>PayloadIdentifier</key>
+    <string>com.nguyentronganh.aim.support</string>
+    <key>PayloadOrganization</key>
+    <string>Nguyen Trong Anh</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>6DBB02E1-10A9-49B9-8EFD-321C3804850A</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadDescription</key>
+    <string>Aim by Nguyen Trong Anh 🔥</string>
+</dict>
+</plist>
